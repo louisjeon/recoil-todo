@@ -1,5 +1,5 @@
 # recoil-todo
 
-## Technologies used
+## Tech Stack
 
 - React-Hook-Form
